@@ -1,6 +1,7 @@
 # Leetcode_Question
-Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question that i solved to achive a good Problem Solving Skill.
-A collection of LeetCode questions to ace the coding interview! 
+Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question that i solved to achive a good Problem Solving Skill. 
+
+## A collection of LeetCode questions to ace the coding interview! 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
