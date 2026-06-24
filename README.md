@@ -40,4 +40,12 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
