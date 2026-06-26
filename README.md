@@ -13,11 +13,13 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1800-maximum-ascending-subarray-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Counting
 |  |
 | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
