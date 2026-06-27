@@ -43,6 +43,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 ## Linked List
 |  |
@@ -86,4 +87,16 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [2788-split-strings-by-separator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2788-split-strings-by-separator) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
