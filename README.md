@@ -10,6 +10,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -80,6 +81,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## String
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2788-split-strings-by-separator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2788-split-strings-by-separator) |
 ## Tree
 |  |
