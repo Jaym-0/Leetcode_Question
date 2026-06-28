@@ -49,12 +49,14 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0328-odd-even-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1669-merge-in-between-linked-lists) |
@@ -93,6 +95,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -121,4 +124,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
