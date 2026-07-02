@@ -10,6 +10,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -127,6 +128,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
