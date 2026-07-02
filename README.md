@@ -10,6 +10,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1534-count-good-triplets](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1534-count-good-triplets) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -70,6 +71,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Brainteaser
 |  |
 | ------- |
