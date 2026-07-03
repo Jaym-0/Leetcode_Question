@@ -23,6 +23,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2788-split-strings-by-separator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2788-split-strings-by-separator) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -32,6 +33,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -151,4 +153,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1534-count-good-triplets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
