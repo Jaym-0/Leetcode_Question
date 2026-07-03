@@ -21,13 +21,9 @@ public:
                 }
                 pred->right = curr->right;
                 curr->right = curr->left;
+                curr->left = NULL;
             }
             curr = curr -> right;
-        }
-        curr = root;
-        while(curr){
-            curr->left = NULL;
-            curr = curr->right;
         }
     }
 };
