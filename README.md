@@ -129,6 +129,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -165,4 +168,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
