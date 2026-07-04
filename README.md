@@ -130,6 +130,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -140,6 +141,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -149,6 +151,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
 ## Matrix
