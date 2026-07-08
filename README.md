@@ -88,6 +88,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
+| [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -214,4 +215,12 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0098-validate-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
