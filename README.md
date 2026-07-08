@@ -56,6 +56,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0023-merge-k-sorted-lists) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0237-delete-node-in-a-linked-list) |
@@ -97,6 +99,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -105,6 +108,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
