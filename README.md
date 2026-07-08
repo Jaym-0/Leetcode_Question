@@ -144,6 +144,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
@@ -158,6 +159,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -169,6 +171,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
@@ -202,6 +205,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
