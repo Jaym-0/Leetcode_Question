@@ -93,6 +93,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2490-circular-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2490-circular-sentence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2788-split-strings-by-separator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2788-split-strings-by-separator) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
 | ------- |
