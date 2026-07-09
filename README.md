@@ -73,6 +73,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 ## Linked List
 |  |
@@ -156,6 +157,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -169,6 +171,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -184,6 +187,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
 ## Matrix
@@ -223,6 +227,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
