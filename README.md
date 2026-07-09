@@ -8,6 +8,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -102,6 +103,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -145,6 +147,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
@@ -172,6 +175,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
@@ -216,6 +220,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
