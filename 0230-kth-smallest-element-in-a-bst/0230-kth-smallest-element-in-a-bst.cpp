@@ -10,7 +10,7 @@
  * };
  */
 
-/*
+
 class Solution {
     void nodeToVec(TreeNode* root, vector<int> &arr){
         if(root == NULL){
@@ -28,8 +28,9 @@ public:
     }
 };
 
-*/
 
+
+/*
 class Solution {
 private:
     int solve(TreeNode* root, int &i , int k){
@@ -52,3 +53,4 @@ public:
         return solve(root, i, k);
     }
 };
+*/
