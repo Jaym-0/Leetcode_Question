@@ -11,6 +11,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1534-count-good-triplets](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1534-count-good-triplets) |
@@ -79,6 +80,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -200,6 +203,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
 ## Matrix
@@ -243,6 +247,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,4 +256,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
