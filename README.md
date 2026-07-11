@@ -8,6 +8,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
@@ -144,6 +145,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -265,4 +267,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
