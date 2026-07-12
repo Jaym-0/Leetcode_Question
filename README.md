@@ -18,6 +18,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1534-count-good-triplets](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1534-count-good-triplets) |
 | [1652-defuse-the-bomb](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
@@ -44,6 +45,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1331-rank-transform-of-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2670-find-the-distinct-difference-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2670-find-the-distinct-difference-array) |
@@ -62,6 +64,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
