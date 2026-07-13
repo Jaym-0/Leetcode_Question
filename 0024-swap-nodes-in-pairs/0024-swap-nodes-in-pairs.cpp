@@ -11,6 +11,28 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
+        ListNode* curr = new ListNode(0);
+        curr->next = head;
+        ListNode* temp = curr;
+        
+        while(temp->next != NULL && temp->next->next != NULL){
+            ListNode* slow =  temp->next;    
+            ListNode* fast = slow->next;
+            // Swapp Babyyyyyyyyyyyy
+            slow->next = fast->next;
+            fast->next = temp->next;
+            temp->next = fast;
+            temp = slow;
+        }
+        return curr->next;
+    }
+};
+
+/*
+// Space O(n) but correct
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
         vector<int> arr;
         ListNode* temp = head;
         while(temp != NULL){
@@ -29,3 +51,4 @@ public:
         return head;
     }
 };
+*/
