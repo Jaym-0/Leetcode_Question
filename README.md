@@ -242,6 +242,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
