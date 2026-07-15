@@ -207,6 +207,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
@@ -244,6 +245,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0144-binary-tree-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
@@ -283,6 +285,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -298,6 +301,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
