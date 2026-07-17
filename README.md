@@ -14,6 +14,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +55,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
@@ -80,6 +82,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
@@ -175,6 +178,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
