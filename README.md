@@ -9,6 +9,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -160,6 +161,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
@@ -332,6 +334,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
