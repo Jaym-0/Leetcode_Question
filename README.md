@@ -36,6 +36,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1800-maximum-ascending-subarray-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -148,6 +149,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -372,6 +374,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
