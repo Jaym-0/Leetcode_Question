@@ -147,6 +147,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -209,6 +210,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
