@@ -98,6 +98,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3536-maximum-product-of-two-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -157,6 +158,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
