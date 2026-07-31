@@ -78,6 +78,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -91,6 +92,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -208,6 +211,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -244,6 +248,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2788-split-strings-by-separator) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
