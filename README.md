@@ -46,6 +46,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2670-find-the-distinct-difference-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -72,6 +73,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2670-find-the-distinct-difference-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
@@ -221,6 +223,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
