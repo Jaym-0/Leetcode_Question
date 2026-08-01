@@ -19,6 +19,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
@@ -163,6 +164,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -328,6 +330,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0024-swap-nodes-in-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -376,6 +379,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -428,4 +432,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
