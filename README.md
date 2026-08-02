@@ -21,6 +21,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,6 +167,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
@@ -380,6 +382,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -436,4 +439,5 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
