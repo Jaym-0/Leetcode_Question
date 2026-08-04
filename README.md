@@ -60,6 +60,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -85,6 +86,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
@@ -114,6 +116,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
