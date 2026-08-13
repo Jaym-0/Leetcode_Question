@@ -191,6 +191,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -205,6 +206,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
