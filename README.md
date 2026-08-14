@@ -151,6 +151,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -164,6 +165,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
