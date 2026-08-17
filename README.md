@@ -481,4 +481,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
