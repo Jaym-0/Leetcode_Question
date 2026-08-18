@@ -63,6 +63,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -97,6 +98,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
