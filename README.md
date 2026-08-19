@@ -266,6 +266,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
