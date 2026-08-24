@@ -131,6 +131,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -283,6 +284,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2490-circular-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2490-circular-sentence) |
@@ -503,4 +505,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0595-big-countries](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1757-recyclable-and-low-fat-products) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
