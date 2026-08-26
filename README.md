@@ -15,6 +15,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
@@ -78,6 +79,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
@@ -381,6 +383,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
