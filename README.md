@@ -40,6 +40,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1652-defuse-the-bomb](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1816-truncate-sentence) |
@@ -92,6 +93,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -256,6 +258,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -288,6 +291,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
@@ -408,6 +412,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
