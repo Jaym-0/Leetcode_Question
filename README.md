@@ -81,6 +81,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3895-count-digit-appearances) |
+| [3921-score-validator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3921-score-validator) |
 | [3978-unique-middle-element](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3271-hash-divided-string](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3271-hash-divided-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3921-score-validator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3921-score-validator) |
 ## Stack
 |  |
 | ------- |
@@ -316,6 +318,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3921-score-validator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3921-score-validator) |
 ## Tree
 |  |
 | ------- |
