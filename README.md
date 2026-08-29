@@ -72,6 +72,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -173,6 +174,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3271-hash-divided-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -419,6 +421,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
