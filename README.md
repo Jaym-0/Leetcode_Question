@@ -81,6 +81,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3895-count-digit-appearances) |
+| [3978-unique-middle-element](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3978-unique-middle-element](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
