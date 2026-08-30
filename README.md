@@ -49,6 +49,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -125,6 +126,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
