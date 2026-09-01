@@ -41,6 +41,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1816-truncate-sentence) |
@@ -172,6 +173,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0054-spiral-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -193,6 +195,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
@@ -535,4 +538,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
