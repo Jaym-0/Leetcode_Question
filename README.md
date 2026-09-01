@@ -68,6 +68,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -113,6 +114,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3046-split-the-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -275,6 +277,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1748-sum-of-unique-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3046-split-the-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3046-split-the-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3978-unique-middle-element](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3978-unique-middle-element) |
