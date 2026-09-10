@@ -351,6 +351,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0872-leaf-similar-trees](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +391,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
