@@ -21,6 +21,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
@@ -95,6 +96,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1331-rank-transform-of-an-array) |
@@ -304,6 +306,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
