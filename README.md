@@ -49,6 +49,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -179,6 +180,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0054-spiral-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -403,6 +405,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
