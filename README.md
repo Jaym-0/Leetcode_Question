@@ -56,6 +56,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2293-min-max-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -181,6 +182,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0059-spiral-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2293-min-max-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
