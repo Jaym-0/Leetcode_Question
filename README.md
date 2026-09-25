@@ -247,6 +247,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3895-count-digit-appearances) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Brainteaser
 |  |
 | ------- |
@@ -517,6 +518,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Backtracking
 |  |
 | ------- |
