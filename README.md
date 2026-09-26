@@ -226,6 +226,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -299,6 +300,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0143-reorder-list) |
+| [0633-sum-of-square-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
@@ -466,6 +468,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0450-delete-node-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
