@@ -204,6 +204,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
@@ -317,6 +318,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0520-detect-capital](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -558,4 +560,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
