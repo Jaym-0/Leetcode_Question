@@ -241,6 +241,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -461,6 +462,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2032-two-out-of-three) |
