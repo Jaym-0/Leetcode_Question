@@ -210,6 +210,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0897-increasing-order-search-tree](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -328,6 +329,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0520-detect-capital) |
+| [1021-remove-outermost-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -580,6 +582,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
