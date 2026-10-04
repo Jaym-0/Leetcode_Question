@@ -100,6 +100,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -151,6 +152,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0215-kth-largest-element-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0973-k-closest-points-to-origin) |
@@ -329,6 +331,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0520-detect-capital) |
@@ -469,6 +472,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0222-count-complete-tree-nodes](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
