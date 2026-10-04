@@ -123,6 +123,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -353,6 +354,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3271-hash-divided-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
