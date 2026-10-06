@@ -33,6 +33,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -221,6 +222,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1021-remove-outermost-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3174-clear-digits) |
 ## Linked List
@@ -608,4 +610,8 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
