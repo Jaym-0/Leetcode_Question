@@ -142,6 +142,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -352,6 +353,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1859-sorting-the-sentence) |
