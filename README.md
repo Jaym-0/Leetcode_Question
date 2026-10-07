@@ -93,6 +93,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3895-count-digit-appearances) |
+| [3917-count-indices-with-opposite-parity](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3921-score-validator) |
 | [3978-unique-middle-element](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3978-unique-middle-element) |
 ## Hash Table
