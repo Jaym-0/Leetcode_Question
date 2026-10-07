@@ -74,6 +74,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2965-find-missing-and-repeated-values](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3046-split-the-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3151-special-array-i) |
@@ -172,6 +173,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [2785-sort-vowels-in-a-string](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3536-maximum-product-of-two-digits) |
@@ -475,6 +477,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dhananjay0777/Leetcode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
