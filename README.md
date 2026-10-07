@@ -194,6 +194,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [0054-spiral-matrix](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/dhananjay0777/Leetcode_Question/tree/master/0946-validate-stack-sequences) |
+| [1688-count-of-matches-in-tournament](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1688-count-of-matches-in-tournament) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/dhananjay0777/Leetcode_Question/tree/master/2293-min-max-game) |
@@ -255,6 +256,7 @@ Hello everyone, Myself Dhananjay Prajapati and here are some Leetcode question t
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1688-count-of-matches-in-tournament](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhananjay0777/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
